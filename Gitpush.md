@@ -2,15 +2,15 @@
 
 
 
-`git add 八股文.md` 添加文件放入本地仓库
+1. `git add 八股文.md` 添加文件放入本地仓库
 
-`git commit -m "Discription"` 提交文件到本地仓库
+2. `git commit -m "Discription"` 提交文件到本地仓库
 
 `git remote add origin git@github.com:ChillXu/Interview.git ` 添加一次即可，git clone下来也不需要建立连接
 
 
 
-`git push -u origin main `
+3. `git push -u origin main `
 
 
 
